@@ -1,0 +1,16 @@
+C:\Users\1026650\source\repos\nes_emu\bin\Debug\netcoreapp3.1\nes_emu.exe
+C:\Users\1026650\source\repos\nes_emu\bin\Debug\netcoreapp3.1\nes_emu.deps.json
+C:\Users\1026650\source\repos\nes_emu\bin\Debug\netcoreapp3.1\nes_emu.runtimeconfig.json
+C:\Users\1026650\source\repos\nes_emu\bin\Debug\netcoreapp3.1\nes_emu.runtimeconfig.dev.json
+C:\Users\1026650\source\repos\nes_emu\bin\Debug\netcoreapp3.1\nes_emu.dll
+C:\Users\1026650\source\repos\nes_emu\bin\Debug\netcoreapp3.1\nes_emu.pdb
+C:\Users\1026650\source\repos\nes_emu\obj\Debug\netcoreapp3.1\nes_emu.csprojAssemblyReference.cache
+C:\Users\1026650\source\repos\nes_emu\obj\Debug\netcoreapp3.1\nes_emu.csproj.CoreCompileInputs.cache
+C:\Users\1026650\source\repos\nes_emu\obj\Debug\netcoreapp3.1\nes_emu.AssemblyInfoInputs.cache
+C:\Users\1026650\source\repos\nes_emu\obj\Debug\netcoreapp3.1\nes_emu.AssemblyInfo.cs
+C:\Users\1026650\source\repos\nes_emu\obj\Debug\netcoreapp3.1\nes_emu.dll
+C:\Users\1026650\source\repos\nes_emu\obj\Debug\netcoreapp3.1\nes_emu.pdb
+C:\Users\1026650\source\repos\nes_emu\obj\Debug\netcoreapp3.1\nes_emu.genruntimeconfig.cache
+C:\Users\1026650\source\repos\nes_emu\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\1026650\source\repos\nes_emu\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\1026650\source\repos\nes_emu\obj\Debug\netcoreapp3.1\nes_emu.csproj.CopyComplete

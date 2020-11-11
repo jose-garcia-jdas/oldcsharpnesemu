@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "nes_emu/1.0.0": {
+        "dependencies": {
+          "Components": "1.0.0"
+        },
+        "runtime": {
+          "nes_emu.dll": {}
+        }
+      },
+      "Components/1.0.0": {
+        "runtime": {
+          "Components.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nes_emu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Components/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
